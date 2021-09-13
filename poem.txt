@@ -9,3 +9,4 @@ indigo
 yellow
 These are the colors of the rainbow.
 and the pony
+The earth is where we live.
